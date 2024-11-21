@@ -51,7 +51,7 @@
 }
 .smallbanner{
     background-image: url("./image/skybiuld.jpg");
-    height: 30vh;
+    height: 50vh;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -88,7 +88,7 @@
     background-image: url(./image/ballon.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 70vh;
+    height: 80vh;
 }
 .contform{
     width: 50%;
